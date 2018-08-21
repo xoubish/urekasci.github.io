@@ -21,6 +21,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ureka.science" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: UrekaScience
 # github_username:  jekyll
+facebook_username: UrekaScience
+
 
 # Build settings
 markdown: kramdown
